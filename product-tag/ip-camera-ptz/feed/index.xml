@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IP camera PTZ &#8211; TSTCorp Global</title>
+	<atom:link href="http://localhost/tst-corp/product-tag/ip-camera-ptz/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 Dec 2017 00:46:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>IP camera PTZ &#8211; VPIP-2M22X</title>
+		<link>./../../../product/ip-camera-ptz-vpip-2m22x/index.html</link>
+		<pubDate>Sun, 10 Dec 2017 10:50:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=28</guid>
+		<description><![CDATA[<ul>
+ 	<li>1/2.8” Progressive Scan CMOS</li>
+ 	<li>22X Optical Zoom, 12X Digital Zoom</li>
+ 	<li>Multiple Streams</li>
+ 	<li>Onvif 2.2(Profile S)</li>
+ 	<li>Support HTTPS and multi-level password</li>
+ 	<li>BLC (Black Light Compensation)</li>
+ 	<li>Supports Motion Detection</li>
+ 	<li>WDR more than 100dB</li>
+ 	<li>Low bitrate; excellent low light performance</li>
+ 	<li>2D + 3D DNR (Digital Noise Reduction)</li>
+ 	<li>IR Night View Distance 100 meters (optional)</li>
+ 	<li>Video Analytics included ( Perimeter  , Single Virtual Fence , and Camera Tamper)</li>
+</ul>]]></description>
+				<content:encoded><![CDATA[<h2><strong>V-WEB SERIES</strong></h2>
+<h4><strong>VPIP-2M22X- with Video Analytics</strong></h4>
+<p>2 Megapixel Network Low Light PTZ</p>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="356"><strong>Specifications</strong></td>
+</tr>
+<tr>
+<td width="110"><strong>Image Sensor</strong></td>
+<td width="246">1/2.8” Progressive Scan CMOS</td>
+</tr>
+<tr>
+<td width="110"><strong>Min. Illumination</strong></td>
+<td width="246">Color: 0.02 Lux; B&amp;W: 0.002 Lux</td>
+</tr>
+<tr>
+<td width="110"><strong>Day &amp; Night</strong></td>
+<td width="246">ICR</td>
+</tr>
+<tr>
+<td width="110"><strong>Shutter Speed</strong></td>
+<td width="246">1/10000-1/50s</td>
+</tr>
+<tr>
+<td width="110"><strong>Auto Iris</strong></td>
+<td width="246">Auto/Manual</td>
+</tr>
+<tr>
+<td width="110"><strong>Wide Dynamic Range</strong></td>
+<td width="246">Yes</td>
+</tr>
+<tr>
+<td width="110"><strong>Digital Noise Reduction</strong></td>
+<td width="246">2D/3D</td>
+</tr>
+<tr>
+<td width="110"><strong>Lens</strong></td>
+<td width="246">22X Module, 4.7-103mm</td>
+</tr>
+<tr>
+<td width="110"><strong>FOV</strong></td>
+<td width="246">58.7° -3.2°</td>
+</tr>
+<tr>
+<td width="110"><strong>Pan/Tilt</strong></td>
+<td width="246">Pan 0-360°, Tilt 0-98°</td>
+</tr>
+<tr>
+<td width="110"><strong>Pan/Tilt Speed</strong></td>
+<td width="246">PTZ Speed Pan 0.4°~350°/s, Tilt 0.4°~180°/s</td>
+</tr>
+<tr>
+<td width="110"><strong>IR LED</strong></td>
+<td width="246">N/A</td>
+</tr>
+<tr>
+<td width="110"><strong>IR Range</strong></td>
+<td width="246">N/A</td>
+</tr>
+<tr>
+<td width="110"><strong>Digital Zoom</strong></td>
+<td width="246">12X</td>
+</tr>
+<tr>
+<td colspan="2" width="356"><strong>IMAGE</strong></td>
+</tr>
+<tr>
+<td width="110"><strong>Video Compression</strong></td>
+<td width="246">H.264 High/Main/Baseline Profile, MJPEG</td>
+</tr>
+<tr>
+<td width="110"><strong>Bit Rate (CBR/VBR)</strong></td>
+<td width="246">500kb-12000kb</td>
+</tr>
+<tr>
+<td width="110"><strong>Audio Compression</strong></td>
+<td width="246">G.711, RAW_PCM</td>
+</tr>
+<tr>
+<td width="110"><strong>Max. Resolution</strong></td>
+<td width="246">1920&#215;1080/30fps</td>
+</tr>
+<tr>
+<td width="110">&nbsp;</p>
+<p><strong>Stream</strong></td>
+<td width="246">Stream1: 1920&#215;1080</p>
+<p>Stream2: D1 to QVGA</td>
+</tr>
+<tr>
+<td width="110"><strong>Image Setting</strong></td>
+<td width="246">Saturation, Brightness, Contrast, Sharpness</td>
+</tr>
+<tr>
+<td width="110"><strong>HLC</strong></td>
+<td width="246">Yes</td>
+</tr>
+<tr>
+<td width="110"><strong>ROI</strong></td>
+<td width="246">Yes</td>
+</tr>
+<tr>
+<td width="110"><strong>Defog</strong></td>
+<td width="246">Yes</td>
+</tr>
+<tr>
+<td colspan="2" width="356"><strong>Network</strong></td>
+</tr>
+<tr>
+<td width="110"><strong>Network Protocols</strong></td>
+<td width="246">HTTP, HTTPS, TCP/IP, UDP/IP, RTSP, DHCP, NTP, PPoE,</p>
+<p>Unicast and Multicast supported</td>
+</tr>
+<tr>
+<td width="110">&nbsp;</p>
+<p><strong>Alarm Trigger</strong></td>
+<td width="246">Motion Intrusion, Line Crossing,Tamper, Network Disconnect, Disk Alarm, I/O Alarm</td>
+</tr>
+<tr>
+<td width="110"><strong>RTSP Video</strong></td>
+<td width="246">Standard RFC2326, Support QuickTime/ VLC Player</td>
+</tr>
+<tr>
+<td width="110"><strong>Security</strong></td>
+<td width="246">User security authentication, Reset, Hardware WatchDog</td>
+</tr>
+<tr>
+<td width="110"><strong>Web Language</strong></td>
+<td width="246">English, Polish, Italian, Portuguese, Spanish, Chinese</td>
+</tr>
+<tr>
+<td width="110"><strong>System Compatibility</strong></td>
+<td width="246">Onvif, CGI</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="349"><strong>Specifications</strong></p>
+<p><strong>Interface</strong></td>
+</tr>
+<tr>
+<td width="108"><strong>Ethernet</strong></td>
+<td width="241">1 Ethernet (10/100 Base-T) RJ-45 Connector</td>
+</tr>
+<tr>
+<td width="108"><strong>Audio I/O</strong></td>
+<td width="241">1ch Audio In &amp; 1ch Audio Out</td>
+</tr>
+<tr>
+<td width="108"><strong>Alarm I/O</strong></td>
+<td width="241">7ch Alarm In &amp; 2ch Alarm Out</td>
+</tr>
+<tr>
+<td width="108"><strong>RS485</strong></td>
+<td width="241">Yes</td>
+</tr>
+<tr>
+<td width="108"><strong>BNC Output</strong></td>
+<td width="241">Yes</td>
+</tr>
+<tr>
+<td width="108"><strong>Reset Button</strong></td>
+<td width="241">Yes (Built-in)</td>
+</tr>
+<tr>
+<td width="108"><strong>Edge Storage</strong></td>
+<td width="241">Micro SD/SDHC/SDXC slot, max 64GB</td>
+</tr>
+<tr>
+<td colspan="2" width="349"><strong>General</strong></td>
+</tr>
+<tr>
+<td width="108"><strong>Power Supply</strong></td>
+<td width="241">AC24V/2.5A</td>
+</tr>
+<tr>
+<td width="108"><strong>Power Consumption</strong></td>
+<td width="241">MAX 32W</td>
+</tr>
+<tr>
+<td width="108"><strong>Operating Temperature</strong></td>
+<td width="241">-40°C ~+70°C With Heater</td>
+</tr>
+<tr>
+<td width="108"><strong>Operating Humidity</strong></td>
+<td width="241">0%-90% RH</td>
+</tr>
+<tr>
+<td width="108"><strong>Ingress Protection</strong></td>
+<td width="241">IP 66, TVS6000V</td>
+</tr>
+<tr>
+<td width="108"><strong>Approvals</strong></td>
+<td width="241">CE / FCC</td>
+</tr>
+<tr>
+<td width="108"><strong>Product Dimensions</strong></td>
+<td width="241">237 x 295mm</td>
+</tr>
+<tr>
+<td width="108"><strong>Product Weight</strong></td>
+<td width="241">4.5KG (9.9 Ibs)</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

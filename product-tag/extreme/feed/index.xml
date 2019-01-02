@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Extreme &#8211; TSTCorp Global</title>
+	<atom:link href="http://localhost/tst-corp/product-tag/extreme/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 Dec 2017 00:46:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Arteco’s Extreme &#8211; Video Management Software</title>
+		<link>./../../../product/artecos-extreme/index.html</link>
+		<pubDate>Sun, 10 Dec 2017 10:16:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=22</guid>
+		<description><![CDATA[<ul class="hover-show">
+ 	<li>Multi-server Centralization</li>
+ 	<li>Unlimited Simultaneous Connections &#38; User Accounts</li>
+ 	<li>ONVIF &#38; RTSP compatible</li>
+ 	<li>Supports H.264, M-jpeg, Mpeg-4</li>
+ 	<li>Extreme Analytics (advanced filters, backgrounds, area exclusion, Perspective, Environmental Intelligence)</li>
+ 	<li>Privacy Zones</li>
+ 	<li>Maps Supervisor</li>
+ 	<li class="hover-show">Camera Selections &#38; User Policies Definition</li>
+ 	<li class="hover-show">Microsoft Active Directory Support</li>
+ 	<li class="hover-show">Storage failover &#38; Server Hot backup</li>
+ 	<li class="hover-show">Virtual Machine</li>
+ 	<li class="hover-show">Record data 24/7 on local and network storage</li>
+ 	<li class="hover-show">Access locally and remotely with Arteco Logic Next®, Web Browser and Smartphone</li>
+ 	<li class="hover-show">Watermarking (Certification integrity of recorded images)</li>
+ 	<li class="hover-show">PTZ control: Manual or Automatic (programmable presets and sequences)</li>
+ 	<li class="hover-show">3 user levels with different rights: Administrator, Power User, User</li>
+</ul>]]></description>
+				<content:encoded><![CDATA[<h2>Stay one step ahead with Extreme, Arteco’s most powerful version ever.</h2>
+<p>Extreme does it all: advanced video analysis for object and area video analytics, environmental controls, storage <img class="size-medium wp-image-24 alignright" src="./../../../wp-content/uploads/2017/12/arteco-300x170.png" alt="" width="300" height="170" srcset="./../../../wp-content/uploads/2017/12/arteco-300x170.png 300w, ./../../../wp-content/uploads/2017/12/arteco.png 548w" sizes="(max-width: 300px) 100vw, 300px" />failover, hot back-up, Microsoft Active Directory support and Virtual Machine all built-in! Unlimited site and user profile management makes Extreme the perfect solution not just for large companies and organizations but also for anybody who wants to achieve high-level monitoring performance in real-time.</p>
+<ul>
+<li>Multi-server Centralization</li>
+<li>Unlimited Simultaneous Connections &amp; User Accounts</li>
+<li>ONVIF &amp; RTSP compatible</li>
+<li>Supports H.264, M-jpeg, Mpeg-4</li>
+<li>Extreme Analytics (advanced filters, backgrounds, area exclusion, Perspective, Environmental Intelligence)</li>
+<li>Privacy Zones</li>
+<li>Maps Supervisor</li>
+<li>Camera Selections &amp; User Policies Definition</li>
+<li>Microsoft Active Directory Support</li>
+<li>Storage failover &amp; Server Hot backup</li>
+<li>Virtual Machine</li>
+<li>Record data 24/7 on local and network storage</li>
+<li>Access locally and remotely with Arteco Logic Next®, Web Browser and Smartphone</li>
+<li>Watermarking (Certification integrity of recorded images)</li>
+<li>PTZ control: Manual or Automatic (programmable presets and sequences)</li>
+<li>3 user levels with different rights: Administrator, Power User, User</li>
+</ul>
+<h1>System Requirements</h1>
+<p><strong>Hardware</strong></p>
+<ul>
+<li>Intel® Core i3® or higher</li>
+<li>Intel® Xeon® 0 GHz, 2 MB Cache, 800 MHz FSB or higher</li>
+<li>2GB of RAM or higher</li>
+<li>1x Gigabit Ethernet Network Interface Card</li>
+</ul>
+<p><strong>OS</strong></p>
+<ul>
+<li>Microsoft® Windows Vista SP1 Business or Ultimate 32-bit/64-bit</li>
+<li>Microsoft® Windows 7 Professional or Ultimate 32-bit/64-bit</li>
+<li>Microsoft® Windows 0/8.1 Professional or Enterprise 32-bit/64-bit</li>
+<li>Microsoft® Windows 10 Pro or Enterprise</li>
+<li>Microsoft® Windows Server® 2003 Standard/Enterprise Edition SP1/SP2/R2 32-bit/64-bit</li>
+<li>Microsoft® Windows Server® 2008 Standard/Enterprise Edition SP2 32-bit/64-bit</li>
+<li>Microsoft® Windows Server® 2008 Standard/Enterprise Edition R2 64-bit</li>
+<li>Microsoft® Windows Server® 2012 Standard Edition R2 64-bit</li>
+</ul>
+<p><strong>Virtualization</strong></p>
+<ul>
+<li>VMWare ESXi 1</li>
+<li>VM Player 6.0 (Free)</li>
+</ul>
+<table align="center">
+<tbody>
+<tr>
+<td colspan="2" width="316">= standard       ¢ optional       <strong>&#8211; </strong>not available</td>
+<td width="106"><strong>Pure</strong></td>
+<td width="106"><strong>eMotion</strong></td>
+<td width="106"><strong>Active</strong></td>
+<td width="106"><strong>Extreme</strong></td>
+</tr>
+<tr>
+<td rowspan="29" width="43"><strong>SERVER FEATURES</strong></td>
+<td width="273">Number of supported cameras per server</td>
+<td width="106">20</td>
+<td width="106">Unlimited</td>
+<td width="106">Unlimited</td>
+<td width="106">Unlimited</td>
+</tr>
+<tr>
+<td width="273">Number of supported servers</td>
+<td width="106">1</td>
+<td width="106">1</td>
+<td width="106">Unlimited</td>
+<td width="106">Unlimited</td>
+</tr>
+<tr>
+<td width="273">Number of simultaneous connections</td>
+<td width="106">5</td>
+<td width="106">Unlimited</td>
+<td width="106">Unlimited</td>
+<td width="106">Unlimited</td>
+</tr>
+<tr>
+<td width="273">Number of users</td>
+<td width="106">Unlimited</td>
+<td width="106">Unlimited</td>
+<td width="106">Unlimited</td>
+<td width="106">Unlimited</td>
+</tr>
+<tr>
+<td width="273">Support for Arteco Web Client</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Support for Arteco Mobile Next</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">PTZ Control</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Dual Stream (Live and recording) per Camera</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Event Notification</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Multi Camera Playback</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Istant Replay</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Event search</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">PTZ Presets &amp;Tour</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Multiple Stream Support</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Record to network storage</td>
+<td width="106">&#8211;</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Web Device</td>
+<td width="106">&#8211;</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">CGI I/O</td>
+<td width="106">&#8211;</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">License Mix</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+</tr>
+<tr>
+<td width="273">Centralization</td>
+<td width="106">l</td>
+<td width="106">¢</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Privacy Blur</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Camera Selections</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">User policies definitions</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Maps Supervisor</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Virtual I/O</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Virtual Machine</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">RTSP Streaming Module</td>
+<td width="106">&#8211;</td>
+<td width="106">&#8211;</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Storage Failover</td>
+<td width="106">&#8211;</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Microsoft Active Directory support</td>
+<td width="106">&#8211;</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Server Failover</td>
+<td width="106">&#8211;</td>
+<td width="106">&#8211;</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+</tr>
+<tr>
+<td rowspan="4" width="43"><strong>ANALYTICS</strong></td>
+<td width="273">Motion Detection Pure (on/off)</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Motion Detection eMotion (Basic filters)</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Motion Detection Active (Advanced filters, Background, Area exclusion)</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Analytics Extreme (Advanced Background, Violated Area, Loitering, Virtual Trip-wire, Abandoned/Removed Object, Counting, Speedthreshold)</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">&#8211;</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td rowspan="9" width="43"><strong>PLUG IN</strong></td>
+<td width="273">Arteco Everywhere Integration</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">l</td>
+<td width="106">l</td>
+</tr>
+<tr>
+<td width="273">Arteco Events Analytics</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+</tr>
+<tr>
+<td width="273">Arteco Easy Traffic integration (also available as stand alone)</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+</tr>
+<tr>
+<td width="273">CIAS Perimeter Device integration</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+</tr>
+<tr>
+<td width="273">Contact ID Integration for Intrusion Systems</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+</tr>
+<tr>
+<td width="273">License Plate Recognition (LPR)</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+</tr>
+<tr>
+<td width="273">License Plate Recognition (LPR) &#8211; Samsung App (also available as stand alone)</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+</tr>
+<tr>
+<td width="273">Axis Access Control A1001 integration</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+</tr>
+<tr>
+<td width="273">Open Connector</td>
+<td width="106">&#8211;</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+<td width="106">¢</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

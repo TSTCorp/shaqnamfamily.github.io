@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AMG5901 &#8211; TSTCorp Global</title>
+	<atom:link href="http://localhost/tst-corp/product-tag/amg5901/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 Dec 2017 00:46:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>AMG5901 Single Channel Media Converter 1x100Mbps (match with AMG5902); standalone</title>
+		<link>./../../../product/amg5901-single-channel-media-converter-1x100mbps-match-with-amg5902-standalone/index.html</link>
+		<pubDate>Sun, 10 Dec 2017 15:24:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=122</guid>
+		<description><![CDATA[The AMG5900 Series is designed for low cost, point-to-point single channel transmission of video and associated multiple low speed data / audio / alarm channels together with up to 100Mbps Ethernet Connectivity.]]></description>
+				<content:encoded><![CDATA[<h3>OVERVIEW<img class="size-full wp-image-107 alignright" src="./../../../wp-content/uploads/2017/12/amg.png" alt="" width="238" height="110" /></h3>
+<p>The AMG5900 is designed for singlemode fibre and the AMG5800 is designed for multimode fibre.<br />
+The system provides high quality, low cost transmission of uncompressed video signals. The video is transmitted in full bandwidth digital format ensuring optimum transmission performance regardless of distance. As no compression of the video is used, there is no latency or compromise on quality.<br />
+The range has built in AGC (automatic gain control) with a wide dynamic range and 10-bit video digitisation to provide true ‘plug &amp; play’ capability.<br />
+The products come in a variety of channel options in both standalone and rackmount formats to ensure maximum system versatility.<br />
+Available with 2 or 4 Low Speed Data Channels plus 4 or 8 Bi-directional Alarms.<br />
+Data expansion cards offer transmission of up 4 additional data channels, 8 Bi-directional Alarm channels or 16 Uni-directional Alarm channels, and up to 16 bidirectional audio channels.</p>
+<h3>FEATURES</h3>
+<p>— Standalone and rackmount formats for minimum space usage<br />
+— Up to 100Mbps full bandwidth Ethernet<br />
+— 2 or 4 Low Speed Data Channels<br />
+— 4 or 8 Bi-directional Alarms<br />
+— Removable spring terminal data connectors<br />
+— 12-15VDC supply voltage<br />
+— Plug in module for the AMG2000 Subrack range allowing use with other products in the AMG range<br />
+— Multiple data/audio options available via auxiliary data/audio channels<br />
+— Single Fibre Operation</p>
+<h3>Specifications</h3>
+<h5>Video.</h5>
+<p>Compression                None, uncompressed Input/output  level     1V p/p, +3dB Input/output impedance  75Ω unbalanced Frequency Response      10Hz to 7MHz</p>
+<p>Diff      tial Gain             1%</p>
+<p>Differential Phase          1°</p>
+<p>Signal to Noise Ratio       67dB minimum Video Connector      BNC</p>
+<p>Video Standard             NTSC/PAL/SECAM Video Sample Rate       28MHz</p>
+<h5>Ethernet.</h5>
+<p>Data rate                       100Mb/s Full Duplex</p>
+<h5>Data.</h5>
+<p>Data rate                       Maximum 512kb/s Interface options RS485 / RS422 / RS232 Data connector    Removable spring terminal</p>
+<h5>Alarms.</h5>
+<p>Input level                      1kΩ pull-up to +3V3 Output</p>
+<p>Interface                     NPN, open collector</p>
+<p>Current                       250mA</p>
+<p>Voltage                      +24VDC</p>
+<h5>Optical.</h5>
+<p>Wavelength                   1310 / 1550 nm</p>
+<p>Fibre                             One Singlemode Fibre Optical connector type    SC/PC</p>
+<p>Path loss                       19dB</p>
+<p>Path loss HP version      34dB</p>
+<h5>General.</h5>
+<p>Operating Temp.                -40°C to +74°C Operating  humidity 0 to 95% non-condensing Indicators      Front panel LEDs</p>
+<p>EMC                             CE approved</p>
+<p>MTBF                             &gt;250,000 hrs</p>
+<h5>Power requirements.</h5>
+<p>Input Voltage                12-24VDC</p>
+<p>Consumption                3W Max</p>
+<h5>Mechanical.</h5>
+<p>Weight</p>
+<p>Standalone                 500g</p>
+<p>Rackmount                 550g Dimensions</p>
+<p>Standalone                 110 x 172 x 35 mm</p>
+<p>Rackmount                 3U x 7HP x 172 mm</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

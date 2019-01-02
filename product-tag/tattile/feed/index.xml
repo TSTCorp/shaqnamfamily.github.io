@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tattile &#8211; TSTCorp Global</title>
+	<atom:link href="http://localhost/tst-corp/product-tag/tattile/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 Dec 2017 00:46:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Tattile VEGA SPEED &#8211; Vehicle Speed Enforcement IP camera</title>
+		<link>./../../../product/tattile-vega-speed/index.html</link>
+		<pubDate>Sun, 10 Dec 2017 14:33:52 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=99</guid>
+		<description><![CDATA[The new Vega Speed is an advanced system for speed violations detection. The application fields are Instant Speed Enforcement and Average Speed Enforcement.]]></description>
+				<content:encoded><![CDATA[<p><img class="alignright wp-image-98 size-full" src="./../../../wp-content/uploads/2017/12/tattile.png" alt="" width="296" height="111" />The new Vega Speed is an advanced system for speed violations detection. The application fields are Instant Speed Enforcement and Average Speed Enforcement. Vega Speed is the new user-friendly tool for fighting speeders. Thanks to its light and compact format, it can be easily installed, also in harsh conditions; it doesn’t require heating or cooling. The on board plate recognition makes Officer’s job easier and faster.</p>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="321">Vega Speed</td>
+</tr>
+<tr>
+<td colspan="2" width="321">Licence Plate Recognition</td>
+</tr>
+<tr>
+<td width="107">OCR</td>
+<td width="214">ANPR engine on board</td>
+</tr>
+<tr>
+<td width="107">Grabbing</td>
+<td width="214">Up to 75 fps</td>
+</tr>
+<tr>
+<td colspan="2" width="321">Configuration</td>
+</tr>
+<tr>
+<td width="107">Web Server</td>
+<td width="214">Installation and configuration by Web Server on board</td>
+</tr>
+<tr>
+<td width="107">TCP/IP Server</td>
+<td width="214">Configuration and monitoring through TCP/IP protocol</td>
+</tr>
+<tr>
+<td width="107">Date and Hour</td>
+<td width="214">Synchronization via SNTP protocol</td>
+</tr>
+<tr>
+<td width="107">Software Update</td>
+<td width="214">Upgrading via Web Interface and SDK</td>
+</tr>
+<tr>
+<td colspan="2" width="321">Data Transmission</td>
+</tr>
+<tr>
+<td width="107"><em> </em></p>
+<p>FTP</td>
+<td width="214">FTP Client to FTP Server mode for remote data transmission; two IP address management</td>
+</tr>
+<tr>
+<td width="107">TCP/IP</td>
+<td width="214">Tattile TCP/IP open protocol; two IP address management</td>
+</tr>
+<tr>
+<td width="107">Serial Port</td>
+<td width="214">RS485</td>
+</tr>
+<tr>
+<td colspan="2" width="321">Operating Mode</td>
+</tr>
+<tr>
+<td width="107">Triggered by Radar</td>
+<td width="214">Image capture and processing triggered by Radar detection</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="321">Vega Speed</td>
+</tr>
+<tr>
+<td colspan="2" width="321">System</td>
+</tr>
+<tr>
+<td width="131">ANPR camera</td>
+<td width="189">2560 x 2048 Monochrome CMOS sensor</td>
+</tr>
+<tr>
+<td width="131">Context camera</td>
+<td width="189">2560 x 2048 Color CMOS sensor</td>
+</tr>
+<tr>
+<td width="131">Illuminator</td>
+<td width="189">6 high power LEDs, InfraRed @ 850 nm</td>
+</tr>
+<tr>
+<td width="131">Lenses</td>
+<td width="189">C-Mount. Many focal length available</td>
+</tr>
+<tr>
+<td width="131">Operating System</td>
+<td width="189">Embedded TOS (Tattile Operating System)</td>
+</tr>
+<tr>
+<td width="131"><em> </em></p>
+<p>Digital i/o</td>
+<td width="189">1 Optoisolated input &#8211; 1 Relay Outputs – 1 Strobe output – 4 ID input</td>
+</tr>
+<tr>
+<td width="131">Connectors</td>
+<td width="189">Waterproof circular connector</td>
+</tr>
+<tr>
+<td width="131">Ethernet</td>
+<td width="189">Fast Ethernet 10/100</td>
+</tr>
+<tr>
+<td width="131">Serial port</td>
+<td width="189">Insulated RS485</td>
+</tr>
+<tr>
+<td width="131">Storage</td>
+<td width="189">Up to 32 GB</td>
+</tr>
+<tr>
+<td colspan="2" width="321">Environment, Size, Power</td>
+</tr>
+<tr>
+<td width="131">Operating &amp; Storage Temperature</td>
+<td width="189">From -30° to +55° C</td>
+</tr>
+<tr>
+<td width="131">Operating &amp; Storage Humidity</td>
+<td width="189">From 10% to 90% non</p>
+<p>condensing</td>
+</tr>
+<tr>
+<td width="131">Dimensions</td>
+<td width="189">144 x 135 x 470 mm (WxHxL)</td>
+</tr>
+<tr>
+<td width="131">Weight</td>
+<td width="189">5 kg</td>
+</tr>
+<tr>
+<td width="131">Protection</td>
+<td width="189">Waterproof IP66</td>
+</tr>
+<tr>
+<td width="131">Power supply voltage</td>
+<td width="189">24 Vdc</td>
+</tr>
+<tr>
+<td width="131">Power consumption</td>
+<td width="189">16 W</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Tattile Traffic Light 2L &#8211; Red Light Enforcement IP camera</title>
+		<link>./../../../product/tattile-traffic-light-2l/index.html</link>
+		<pubDate>Sun, 10 Dec 2017 14:22:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=95</guid>
+		<description><![CDATA[Traffic light detection either by image analysis or wired traffic light signals
+All in one: monochrome and color sensors, OCR on board, IR illuminator
+Web server configuration and setup
+Real time processing: up to 75 fps
+Ethernet, digital I/O
+SD memory card up to 32 GByte
+Waterprof housing IP66 with bracket included
+Embedded GPS
+External Flash light on request]]></description>
+				<content:encoded><![CDATA[<table width="100%">
+<tbody>
+<tr>
+<td>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="412"><strong>LICENCE</strong> <strong>PLATE</strong> <strong>RECOGNITION<img class="size-full wp-image-98 alignright" src="./../../../wp-content/uploads/2017/12/tattile.png" alt="" width="296" height="111" /></strong></td>
+</tr>
+<tr>
+<td width="118"><strong>OCR</strong></td>
+<td width="294">ANPR engine on board</td>
+</tr>
+<tr>
+<td width="118"><strong>Grabbing</strong></td>
+<td width="294">Up to 75 fps</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="412"><strong>CONFIGURATION</strong></td>
+</tr>
+<tr>
+<td width="118"><strong>Web Server</strong></td>
+<td width="294">Installation and configuration by Web Server on board</td>
+</tr>
+<tr>
+<td width="118"><strong>TCP/IP</strong><strong>  Server</strong></td>
+<td width="294">Configuration and monitoring through TCP/IP protocol</td>
+</tr>
+<tr>
+<td width="118"><strong>Date</strong> <strong>and</strong> <strong>Hour</strong></td>
+<td width="294">Synchronization via SNTP protocol</td>
+</tr>
+<tr>
+<td width="118"><strong>Software</strong> <strong>Update</strong></td>
+<td width="294">Upgrading via Web Interface</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="412"><strong>DA</strong><strong>T</strong><strong>A</strong> <strong>TRANSMISSION</strong></td>
+</tr>
+<tr>
+<td width="118"><strong>FTP</strong></td>
+<td width="294">FTP Client to FTP Server mode for remote data transmission; two IP address management</td>
+</tr>
+<tr>
+<td width="118"><strong>TCP/IP</strong></td>
+<td width="294">Tattile TCP/IP open protocol</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="412"><strong>OPERA</strong><strong>TING</strong><strong> MODE</strong></td>
+</tr>
+<tr>
+<td width="118"><strong>T</strong><strong>rigger</strong><strong>ed</strong></td>
+<td width="294">Traffic light detection either by image analysis or wired traffic light signals</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="412"><strong>SYSTEM</strong></td>
+</tr>
+<tr>
+<td width="118"><strong>ANPR</strong><strong> Camera</strong></td>
+<td width="294">2560 x 2048 Monochrome CMOS sensor</td>
+</tr>
+<tr>
+<td width="118"><strong>Context</strong> <strong>camera</strong></td>
+<td width="294">2560 x 2048 Color CMOS sensor</td>
+</tr>
+<tr>
+<td width="118"><strong>Illuminator</strong></td>
+<td width="294">6 high power LEDs, InfraRed @ 850 nm</td>
+</tr>
+<tr>
+<td width="118"><strong>Lenses</strong></td>
+<td width="294">C-Mount. Many focal length available.</td>
+</tr>
+<tr>
+<td width="118"><strong>Operating</strong> <strong>System</strong></td>
+<td width="294">Embedded TOS (Tattile Operating System)</td>
+</tr>
+<tr>
+<td width="118"><strong>Digital</strong> <strong>I/O</strong></td>
+<td width="294">1 Optoisolated input &#8211; 1 Relay Outputs – 1 Strobe output – 4 input for trafficlight signals</td>
+</tr>
+<tr>
+<td width="118"><strong>Connectors</strong></td>
+<td width="294">Waterproof circular connector</td>
+</tr>
+<tr>
+<td width="118"><strong>Ethernet</strong></td>
+<td width="294">Fast Ethernet 10/100</td>
+</tr>
+<tr>
+<td width="118"><strong>Serial</strong> <strong>Port</strong></td>
+<td width="294">Insulated RS485</td>
+</tr>
+<tr>
+<td width="118"><strong>Storage</strong></td>
+<td width="294">Up to 32 GB (4 GB default)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="412"><strong>ENVIRONMENT,</strong> <strong>SIZE,</strong> <strong>POWER</strong></td>
+</tr>
+<tr>
+<td width="118"><strong>Operating</strong> <strong>&amp; Storage Temperature</strong></td>
+<td width="294">From -30° to +55° C</td>
+</tr>
+<tr>
+<td width="118"><strong>Operating</strong> <strong>&amp; Storage Humidity</strong></td>
+<td width="294">From 10% to 90% non condensing</td>
+</tr>
+<tr>
+<td width="118"><strong>Dimensions</strong></td>
+<td width="294">144 x 135 x 470 mm (WxHxL)</td>
+</tr>
+<tr>
+<td width="118"><strong>W</strong><strong>eight</strong></td>
+<td width="294">5 kg</td>
+</tr>
+<tr>
+<td width="118"><strong>Protection</strong></td>
+<td width="294">Waterproof IP66</td>
+</tr>
+<tr>
+<td width="118"><strong>Power</strong> <strong>supply</strong> <strong>voltage</strong></td>
+<td width="294">24 Vdc</td>
+</tr>
+<tr>
+<td width="118"><strong>Power</strong> <strong>consumption</strong></td>
+<td width="294">15 W</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Tattile Vega 2HD &#8211; Automatic Number Plate Reader IP camera</title>
+		<link>./../../../product/vega-2hd/index.html</link>
+		<pubDate>Sun, 10 Dec 2017 14:17:24 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=93</guid>
+		<description><![CDATA[<ul>
+ 	<li>All in one: monochrome and color sensors, OCR on board, IR illuminator</li>
+ 	<li>No external trigger required</li>
+ 	<li>Real time processing: up to 75 fps Range of action: up to 25 m</li>
+ 	<li>SD memory card up to 32 GByte</li>
+ 	<li>Color video streaming: H.264 &#38; MPEG4</li>
+ 	<li>Ethernet, digital I/O, RS485 serial port</li>
+ 	<li>Waterproof housing IP66 with bracket included</li>
+ 	<li>Web server configuration and setup.</li>
+</ul>]]></description>
+				<content:encoded><![CDATA[<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="412"><strong>LICENCE</strong> <strong>PLATE</strong> <strong>RECOGNITION</strong></td>
+</tr>
+<tr>
+<td width="118"><strong>OCR</strong></td>
+<td width="294">ANPR engine on board</td>
+</tr>
+<tr>
+<td width="118"><strong>Grabbing</strong></td>
+<td width="294">Up to 75 fps</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="412"><strong>CONFIGURATION</strong></td>
+</tr>
+<tr>
+<td width="118"><strong>Web Server</strong></td>
+<td width="294">Installation and configuration by Web Server on board</td>
+</tr>
+<tr>
+<td width="118"><strong>TCP/IP</strong><strong>  Server</strong></td>
+<td width="294">Configuration and monitoring through TCP/IP protocol</td>
+</tr>
+<tr>
+<td width="118"><strong>Date</strong> <strong>and</strong> <strong>Hour</strong></td>
+<td width="294">Synchronization via SNTP protocol</td>
+</tr>
+<tr>
+<td width="118"><strong>Software</strong> <strong>Update</strong></td>
+<td width="294">Upgrading via Web Interface</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="412"><strong>DA</strong><strong>T</strong><strong>A</strong> <strong>TRANSMISSION</strong></td>
+</tr>
+<tr>
+<td width="118"><strong>FTP</strong></td>
+<td width="294">FTP Client to FTP Server mode for remote data transmission; two IP address management</td>
+</tr>
+<tr>
+<td width="118"><strong>TCP/IP</strong></td>
+<td width="294">Tattile TCP/IP open protocol; two IP address management</td>
+</tr>
+<tr>
+<td width="118"><strong>Serial</strong> <strong>Port</strong></td>
+<td width="294">RS485</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="412"><strong>VIDEO</strong> <strong>STREAMING</strong></td>
+</tr>
+<tr>
+<td width="118"><strong>H.264/MPEG4</strong></td>
+<td width="294">Color video streaming H.264 or MPEG4 (VGA up to 15fps )</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="412"><strong>OPERA</strong><strong>TING</strong><strong> MODE</strong></td>
+</tr>
+<tr>
+<td width="118"><strong>Fr</strong><strong>ee</strong> <strong>Run</strong></td>
+<td width="294">Continuous processing with automatic vehicle detection, even without plate.</td>
+</tr>
+<tr>
+<td width="118"><strong>T</strong><strong>rigger</strong><strong>ed</strong></td>
+<td width="294">Image capture and processing triggered by Ethernet command or digital signal</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="412"><strong>SYSTEM</strong></td>
+</tr>
+<tr>
+<td width="118"><strong>ANPR</strong><strong> Camera</strong></td>
+<td width="294">2560 x 2048 Monochrome CMOS sensor</td>
+</tr>
+<tr>
+<td width="118"><strong>Context</strong> <strong>camera</strong></td>
+<td width="294">2560 x 2048 Color CMOS sensor</td>
+</tr>
+<tr>
+<td width="118"><strong>Illuminator</strong></td>
+<td width="294">6 high power LEDs, InfraRed @ 850 nm</td>
+</tr>
+<tr>
+<td width="118"><strong>Lenses</strong></td>
+<td width="294">C-Mount. Many focal length available.</td>
+</tr>
+<tr>
+<td width="118"><strong>Operating</strong> <strong>System</strong></td>
+<td width="294">Embedded TOS (Tattile Operating System)</td>
+</tr>
+<tr>
+<td width="118"><strong>Digital</strong> <strong>I/O</strong></td>
+<td width="294">1 Optoisolated input &#8211; 1 Relay Outputs – 1 Strobe output – 4 ID input</td>
+</tr>
+<tr>
+<td width="118"><strong>Connectors</strong></td>
+<td width="294">Waterproof circular connector</td>
+</tr>
+<tr>
+<td width="118"><strong>Ethernet</strong></td>
+<td width="294">Fast Ethernet 10/100</td>
+</tr>
+<tr>
+<td width="118"><strong>Serial</strong> <strong>Port</strong></td>
+<td width="294">Insulated RS485</td>
+</tr>
+<tr>
+<td width="118"><strong>Storage</strong></td>
+<td width="294">Up to 32 GB (4 GB default)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="412"><strong>ENVIRONMENT,</strong> <strong>SIZE,</strong> <strong>POWER</strong></td>
+</tr>
+<tr>
+<td width="118"><strong>Operating</strong> <strong>&amp; Storage Temperature</strong></td>
+<td width="294">From -30° to +55° C</td>
+</tr>
+<tr>
+<td width="118"><strong>Operating</strong> <strong>&amp; Storage Humidity</strong></td>
+<td width="294">From 10% to 90% non condensing</td>
+</tr>
+<tr>
+<td width="118"><strong>Dimensions</strong></td>
+<td width="294">144 x 135 x 470 mm (WxHxL)</td>
+</tr>
+<tr>
+<td width="118"><strong>W</strong><strong>eight</strong></td>
+<td width="294">5 kg</td>
+</tr>
+<tr>
+<td width="118"><strong>Protection</strong></td>
+<td width="294">Waterproof IP66</td>
+</tr>
+<tr>
+<td width="118"><strong>Power</strong> <strong>supply</strong> <strong>voltage</strong></td>
+<td width="294">24 Vdc</td>
+</tr>
+<tr>
+<td width="118"><strong>Power</strong> <strong>consumption</strong></td>
+<td width="294">12 W</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

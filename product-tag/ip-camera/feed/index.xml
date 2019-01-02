@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IP camera &#8211; TSTCorp Global</title>
+	<atom:link href="http://localhost/tst-corp/product-tag/ip-camera/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 Dec 2017 00:46:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>VEX-THERMAL Explosion Proof Integrated Camera</title>
+		<link>./../../../product/vex-thermal/index.html</link>
+		<pubDate>Sun, 10 Dec 2017 13:46:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=63</guid>
+		<description><![CDATA[<ul>
+ 	<li>NTSC/PAL (field switchable)</li>
+ 	<li>2nd generation Digital Detail Enhancement™</li>
+ 	<li>Image Opimization</li>
+ 	<li>Invert/Rever (analog and 8-bit digital)</li>
+ 	<li>Polarity Control (black hot/white hot)</li>
+ 	<li>Color &#38; Monochrome Palettes (LUTs)</li>
+ 	<li>Digital Zoom: 2x, 4x, 8x</li>
+ 	<li>Accurate temperature measurement for radiometry, analytics and telemetry</li>
+ 	<li>Integrated wiper system</li>
+</ul>]]></description>
+				<content:encoded><![CDATA[<h3>Key Features</h3>
+<ul>
+<li>NTSC/PAL (field switchable)</li>
+<li>2nd generation Digital Detail Enhancement<img src="https://s.w.org/images/core/emoji/11/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>Image Opimization</li>
+<li>Invert/Rever (analog and 8-bit digital)</li>
+<li>Polarity Control (black hot/white hot)</li>
+<li>Color &amp; Monochrome Palettes (LUTs)</li>
+<li>Digital Zoom: 2x, 4x, 8x</li>
+<li>Accurate temperature measurement for radiometry, analytics and telemetry</li>
+<li>Integrated wiper system</li>
+</ul>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td colspan="2" width="361"><strong>INTERF</strong><strong>ACING</strong></td>
+</tr>
+<tr>
+<td width="170"><strong>Primary Electrical Connector</strong></td>
+<td width="191">50-pin Hirose</td>
+</tr>
+<tr>
+<td width="170"><strong>Input Power (max 2.5 amp during shutter)</strong></td>
+<td width="191">4.0 &#8211; 6.0 VDC</td>
+</tr>
+<tr>
+<td width="170"><strong>P</strong><strong>ower</strong> <strong>Dissipation, steady state</strong></td>
+<td width="191">~1.2 W</td>
+</tr>
+<tr>
+<td width="170"><strong>Flat-Field Correction (FFC) Duration</strong></td>
+<td width="191">&lt;0.5 sec</td>
+</tr>
+<tr>
+<td width="170"><strong>P</strong><strong>ower</strong> <strong>R</strong><strong>eduction</strong> <strong>Switch (disables analog</strong> <strong>video)</strong></td>
+<td width="191">Yes</td>
+</tr>
+<tr>
+<td width="170"><strong>RS-232</strong> <strong>Compatible Communication</strong></td>
+<td width="191">57,600 &amp; 921,600 baud</td>
+</tr>
+<tr>
+<td width="170"><strong>External</strong> <strong>Sync Input/Output</strong></td>
+<td width="191">Yes</td>
+</tr>
+<tr>
+<td width="170"><strong>Discrete I/O Controls Available</strong></td>
+<td width="191">Yes (10-camera minimum)</td>
+</tr>
+<tr>
+<td width="170"><strong>Settable Splash Screens</strong></td>
+<td width="191">Yes (10-camera minimum)</td>
+</tr>
+<tr>
+<td width="170"><strong>User</strong> <strong>Configurability via SDK &amp; GUI</strong></td>
+<td width="191">Yes</td>
+</tr>
+<tr>
+<td width="170"><strong>Dynamic Range Switching</strong></td>
+<td width="191">No</td>
+</tr>
+<tr>
+<td colspan="2" width="361"><strong>ELECTRICAL</strong></td>
+</tr>
+<tr>
+<td width="170"><strong>Current</strong></td>
+<td width="191">&lt;2.5 A</td>
+</tr>
+<tr>
+<td width="170"><strong>Input Power</strong></td>
+<td width="191">4.0 – 6.0 VDC</td>
+</tr>
+<tr>
+<td width="170"><strong>Communication</strong></td>
+<td width="191">Pelco-D/Pelco-P/TCP/IP</td>
+</tr>
+<tr>
+<td width="170"><strong>Communication Rate</strong></td>
+<td width="191">2400 ~ 19200bps</td>
+</tr>
+<tr>
+<td colspan="2" width="361"><strong>MECHANICAL</strong></td>
+</tr>
+<tr>
+<td width="170"><strong>Material</strong></td>
+<td width="191">Stainless steel 304</td>
+</tr>
+<tr>
+<td width="170"><strong>IP</strong></td>
+<td width="191">IP67</td>
+</tr>
+<tr>
+<td width="170"><strong>P</strong><strong>an</strong> <strong>/ Tilt</strong></td>
+<td width="191">360° continuous pan rotation / -90°~ +90°</td>
+</tr>
+<tr>
+<td width="170"><strong>V</strong><strong>ariable</strong> <strong>Speed</strong></td>
+<td width="191">Rotation speed 10°/S (Max)</td>
+</tr>
+<tr>
+<td width="170"><strong>Weight</strong></td>
+<td width="191">49 lb (22Kg)</td>
+</tr>
+<tr>
+<td width="170"><strong>Mounting</strong></td>
+<td width="191">Base or Wall Mount</td>
+</tr>
+<tr>
+<td colspan="2" width="361"><strong>ENVIRONMENT</strong><strong>AL</strong></td>
+</tr>
+<tr>
+<td width="170"><strong>Air Pressure</strong></td>
+<td width="191">80KPa ~ 106KPa</td>
+</tr>
+<tr>
+<td width="170"><strong>Temperature</strong></td>
+<td width="191">-25°C ~ 65°C ( -13 ~ &#8211; 85°F)</td>
+</tr>
+<tr>
+<td width="170"><strong>Humidity</strong></td>
+<td width="191">&lt;95%RH [77°F (+25°C)]</td>
+</tr>
+<tr>
+<td width="170"><strong>T</strong><strong>emperature</strong> <strong>Shock (5°/min)</strong></td>
+<td width="191">Yes</td>
+</tr>
+<tr>
+<td width="170"><strong>Operational Altitude</strong></td>
+<td width="191">Up to 40,000’</td>
+</tr>
+<tr>
+<td width="170"><strong>Vibration</strong></td>
+<td width="191">4.3g three axis, 8 hr each</td>
+</tr>
+<tr>
+<td width="170"><strong>Operational</strong></td>
+<td width="191">200g shock pulse w/ 11 msec sawtooth</td>
+</tr>
+<tr>
+<td width="170"><strong>Approvals</strong></td>
+<td width="191">ROHS, REACH, WEEE</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-hover">
+<tbody>
+<tr>
+<td width="160"><strong>Specifications</strong></td>
+<td width="70"><strong>VEX</strong><strong>&#8211;</strong><strong>T25</strong></td>
+<td width="66"><strong>VEX</strong><strong>&#8211;</strong><strong>T50</strong></td>
+<td width="65"><strong>VEX</strong><strong>&#8211;</strong><strong>T100</strong></td>
+</tr>
+<tr>
+<td colspan="4" width="361"><strong>CERTIFICATE</strong></td>
+</tr>
+<tr>
+<td width="160"><strong>Ex-Marking</strong></td>
+<td colspan="3" width="201">Exd II CT6 / DIP A20 TA, T6</td>
+</tr>
+<tr>
+<td width="160"><strong>Certificate</strong></td>
+<td colspan="3" width="201">CNEx 14.0068</td>
+</tr>
+<tr>
+<td width="160"></td>
+<td colspan="3" width="201"></td>
+</tr>
+<tr>
+<td colspan="4" width="361"><strong>OVERVIEW</strong></td>
+</tr>
+<tr>
+<td width="160"><strong>Thermal Image</strong></td>
+<td colspan="3" width="201">Uncooled VOx Microbolometer</td>
+</tr>
+<tr>
+<td width="160"><strong>FP</strong><strong>A/</strong> <strong>Digital Video Display Formats</strong></td>
+<td colspan="3" width="201">640 × 512</td>
+</tr>
+<tr>
+<td width="160"><strong>Analog Video Display Formats</strong></td>
+<td colspan="3" width="201">640 × 480 (NTSC); 640 × 512 (PAL)</td>
+</tr>
+<tr>
+<td width="160"><strong>Pixel Pitch</strong></td>
+<td colspan="3" width="201">17µm</td>
+</tr>
+<tr>
+<td width="160"><strong>Spectral Band</strong></td>
+<td colspan="3" width="201">7.5-13.5 µm</td>
+</tr>
+<tr>
+<td width="160"><strong>F</strong><strong>ull</strong> <strong>F</strong><strong>rame</strong> <strong>Rates</strong></td>
+<td colspan="3" width="201">30 Hz (NTSC) / 25 Hz(PAL)</td>
+</tr>
+<tr>
+<td width="160"><strong>Exportable Frame Rates</strong></td>
+<td colspan="3" width="201">7.5 Hz (NTSC) , 8.3 Hz( PAL)</td>
+</tr>
+<tr>
+<td width="160"><strong>Sensitivity (NEdT)</strong></td>
+<td colspan="3" width="201">&lt;50 mK at f/1.0</td>
+</tr>
+<tr>
+<td width="160"><strong>Scene Range (High Gain) / (Low Gain)</strong></td>
+<td colspan="3" width="201">-40°C ~160°C / N/A</td>
+</tr>
+<tr>
+<td width="160"><strong>Time to Image</strong></td>
+<td colspan="3" width="201">~3.5 sec</td>
+</tr>
+<tr>
+<td width="160"><strong>Factory</strong> <strong>Optimized Video</strong></td>
+<td colspan="3" width="201">Yes</td>
+</tr>
+<tr>
+<td colspan="4" width="361"><strong>FIELD OF VIEW</strong></td>
+</tr>
+<tr>
+<td width="160"><strong>Field of view</strong></td>
+<td width="70">25 mm f/1.1</td>
+<td width="66">50 mm f/1.2</td>
+<td width="65">100 mm f/1.6</td>
+</tr>
+<tr>
+<td width="160"><strong>Field</strong></td>
+<td width="70">25° x 20°0.680 mr</td>
+<td width="66">12.4°x9.9°0.340 mr</td>
+<td width="65">6.2°x5° 0.170 mr</td>
+</tr>
+<tr>
+<td width="160"><strong>Min Focus Distance</strong></td>
+<td width="70">30cm</td>
+<td width="66">1.5m</td>
+<td width="65">7m</td>
+</tr>
+<tr>
+<td width="160"><strong>Hyperfocal</strong> <strong>Distance</strong></td>
+<td width="70">21m</td>
+<td width="66">71m</td>
+<td width="65">160m</td>
+</tr>
+<tr>
+<td width="160"><strong>L</strong><strong>ength</strong></td>
+<td width="70">25mm</td>
+<td width="66">50mm</td>
+<td width="65">100mm</td>
+</tr>
+</tbody>
+</table>
+<p><img class="wp-image-67 size-full aligncenter" src="./../../../wp-content/uploads/2017/12/image013.png" alt="" width="431" height="341" srcset="./../../../wp-content/uploads/2017/12/image013.png 431w, ./../../../wp-content/uploads/2017/12/image013-300x237.png 300w" sizes="(max-width: 431px) 100vw, 431px" /></p>
+<p><img class="wp-image-70 size-full aligncenter" src="./../../../wp-content/uploads/2017/12/image019.png" alt="" width="429" height="344" srcset="./../../../wp-content/uploads/2017/12/image019.png 429w, ./../../../wp-content/uploads/2017/12/image019-300x241.png 300w" sizes="(max-width: 429px) 100vw, 429px" /></p>
+<p><img class="wp-image-72 size-full aligncenter" src="./../../../wp-content/uploads/2017/12/image022.png" alt="" width="429" height="344" srcset="./../../../wp-content/uploads/2017/12/image022.png 429w, ./../../../wp-content/uploads/2017/12/image022-300x241.png 300w" sizes="(max-width: 429px) 100vw, 429px" /></p>
+<p><img class="wp-image-71 size-full aligncenter" src="./../../../wp-content/uploads/2017/12/image021.png" alt="" width="430" height="344" srcset="./../../../wp-content/uploads/2017/12/image021.png 430w, ./../../../wp-content/uploads/2017/12/image021-300x240.png 300w" sizes="(max-width: 430px) 100vw, 430px" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>VPIP-3MIR30XVA IP camera PTZ with Video Analytics</title>
+		<link>./../../../product/vpip-3mir30xva-ip-camera-ptz-with-video-analytics/index.html</link>
+		<pubDate>Sun, 10 Dec 2017 11:27:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=40</guid>
+		<description><![CDATA[<h3></h3>
+<ul>
+ 	<li>1/2.8" Progressive Scan CMOS</li>
+ 	<li>30X Optical Zoom,16X Digital Zoom</li>
+ 	<li>2048(H) × 1536(V)/25fps</li>
+ 	<li>Multiple Streams</li>
+ 	<li>IR Range 120m</li>
+ 	<li>Smart IR</li>
+ 	<li>Low bitrate, good low-light performance</li>
+ 	<li>3D DNR, dWDR, ICR</li>
+ 	<li>Video Analytics included ( Perimeter , Single Virtual Fence , and Camera Tamper)</li>
+ 	<li>WDR more than 100dB</li>
+</ul>]]></description>
+				<content:encoded><![CDATA[<h3>Key Features</h3>
+<ul>
+<li>1/2.8&#8243; Progressive Scan CMOS</li>
+<li>30X Optical Zoom,16X Digital Zoom</li>
+<li>2048(H) × 1536(V)/25fps</li>
+<li>Multiple Streams</li>
+<li>IR Range 120m</li>
+<li>Smart IR</li>
+<li>Low bitrate, good low-light performance</li>
+<li>3D DNR, dWDR, ICR</li>
+<li>Video Analytics included ( Perimeter , Single Virtual Fence , and Camera Tamper)</li>
+<li>WDR more than 100dB</li>
+</ul>
+<table id="product-attribute-specs-table" class="data-table">
+<tbody>
+<tr class="first odd">
+<th class="label">Megapixel</th>
+<td class="data last">3 Megapixels</td>
+</tr>
+<tr class="even">
+<th class="label">Resolution</th>
+<td class="data last">Max: 2048 x 1536 /30gps</td>
+</tr>
+<tr class="odd">
+<th class="label">Video Analytics</th>
+<td class="data last">Yes</td>
+</tr>
+<tr class="even">
+<th class="label">Image Sensor</th>
+<td class="data last">1/2.8”Progressive Scan CMOS</td>
+</tr>
+<tr class="odd">
+<th class="label">Illumination</th>
+<td class="data last">Color: 0.01 Lux; B&amp;W: 0.001 Lux: IR ON 0 Lux</td>
+</tr>
+<tr class="even">
+<th class="label">Day &amp; Night</th>
+<td class="data last">ICR</td>
+</tr>
+<tr class="odd">
+<th class="label">Shutter Speed</th>
+<td class="data last">1/10,000-1/1s</td>
+</tr>
+<tr class="even">
+<th class="label">Iris Type</th>
+<td class="data last">Auto/Manual</td>
+</tr>
+<tr class="odd">
+<th class="label">Lens</th>
+<td class="data last">30x module, 4.3 &#8211; 129 mm</td>
+</tr>
+<tr class="even">
+<th class="label">Digital Zoom</th>
+<td class="data last">16x</td>
+</tr>
+<tr class="odd">
+<th class="label">Field of View</th>
+<td class="data last">70.5” &#8211; 3.2”</td>
+</tr>
+<tr class="even">
+<th class="label">Pan/Tilt Speed</th>
+<td class="data last">PTZ Speed Pan 0.4°~350°/s, Tilt 0.4°~180°/s</td>
+</tr>
+<tr class="odd">
+<th class="label">Operating Temperature</th>
+<td class="data last">-40°C ~+70°C with Heater</td>
+</tr>
+<tr class="last even">
+<th class="label">Weight</th>
+<td class="data last">9.4700</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

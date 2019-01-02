@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gigabit Unmanaged Switch &#8211; TSTCorp Global</title>
+	<atom:link href="http://localhost/tst-corp/product-tag/gigabit-unmanaged-switch/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 Dec 2017 00:46:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>AMG9HMU-4GH-1S &#8211; Industrial Hardened Gigabit Unmanaged Switch with PoE+</title>
+		<link>./../../../product/amg9hmu-4gh-1s-industrial-hardened-gigabit-unmanaged-switch-with-poe/index.html</link>
+		<pubDate>Sun, 10 Dec 2017 14:46:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=102</guid>
+		<description><![CDATA[<div class="text">Industrial Hardened Unmanaged PoE switch, 4 x 10/100/1000Base with 802.3at PoE+ &#38; 1 x 1000Base SFP, DIN rail/Panel mount, -40°C to +75°C. 40-56VDC Power Input. SFPs NOT INCLUDED.</div>]]></description>
+				<content:encoded><![CDATA[<div class="text"><img class="alignright wp-image-107 size-full" src="./../../../wp-content/uploads/2017/12/amg.png" alt="" width="238" height="110" />Available with 4 Gigabit Ethernet ports, AMG’s Unmanaged switches provide a Gigabit Ethernet uplink across fibre via the SFP port.</div>
+<div class="text">
+<p>Every port can automatically sense your type of cable so there is no need for crossover cables whether you are connecting the switch to another switch or a computer and can also automatically sense if the connected network devices are running at 10Mbps, 100Mbps or 1000Mbps and half/full-duplex mode, and adjust accordingly.</p>
+<p>With 30W PoE+ on each Ethernet port and housed in a compact chassis, these DIN rail mountable devices are ideally suited for connecting and powering field based equipment such as IP CCTV cameras and industrial controllers to Ethernet networks over long distances using all types of fibre. Fibre connectivity is determined by separate SFP device selection, providing application and site flexibility.</p>
+<p><img class="aligncenter wp-image-106 size-medium" src="./../../../wp-content/uploads/2017/12/138_1200x900-300x225.jpg" alt="" width="300" height="225" srcset="./../../../wp-content/uploads/2017/12/138_1200x900-300x225.jpg 300w, ./../../../wp-content/uploads/2017/12/138_1200x900-768x576.jpg 768w, ./../../../wp-content/uploads/2017/12/138_1200x900-1024x768.jpg 1024w, ./../../../wp-content/uploads/2017/12/138_1200x900.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+</div>
+<div class="text">• Compact size – ideal for confined spaces, including camera poles and roadside cabinets • -40°C to 75°C temperature – maintains performance in extreme conditions • Non-programmable – no need for any user configuration or computer setup • DIN rail mountable – quick to install and remove for maintenance • Gigabit SFP port – supports single and multimode, single or dual fibre options up to 120Km • Gigabit Ethernet copper ports – high bandwidth support • Auto MDI or MDI-X config – eliminates the need for crossover cables • Auto-Negotiation (802.3u) – automatically determines the best connection speed • Automatic Link Restoration &#8211; restores operation when recovering from a temporary fault<img class="aligncenter wp-image-105 size-medium" src="./../../../wp-content/uploads/2017/12/124_1200x900-300x225.jpg" alt="" width="300" height="225" srcset="./../../../wp-content/uploads/2017/12/124_1200x900-300x225.jpg 300w, ./../../../wp-content/uploads/2017/12/124_1200x900-768x576.jpg 768w, ./../../../wp-content/uploads/2017/12/124_1200x900-1024x768.jpg 1024w, ./../../../wp-content/uploads/2017/12/124_1200x900.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+<div>
+<ul>
+<li>Compact size – ideal for confined spaces, including camera poles and roadside cabinets</li>
+<li>-40°C to 75°C temperature – maintains performance in extreme conditions</li>
+<li>Non-programmable – no need for any user configuration or computer setup</li>
+<li>DIN rail mountable – quick to install and remove for maintenance</li>
+<li>Gigabit SFP port – supports single and multimode, single or dual fibre options up to 120Km</li>
+<li>Gigabit Ethernet copper ports – high bandwidth support</li>
+<li>Auto MDI or MDI-X config – eliminates the need for crossover cables</li>
+<li>Auto-Negotiation (802.3u) – automatically determines the best connection speed</li>
+<li>Automatic Link Restoration &#8211; restores operation when recovering from a temporary fault</li>
+</ul>
+<p>&nbsp;</p>
+</div>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
